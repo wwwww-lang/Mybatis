@@ -1,0 +1,39 @@
+ãINFOãã20-08-24ããclass com.wei.Dao.UserDaoTestãinfo:进入了testlog4j
+ãDEBUGãã20-08-24ããclass com.wei.Dao.UserDaoTestãdebug:进入了testlog4j
+ãERRORãã20-08-24ããclass com.wei.Dao.UserDaoTestãerror:进入了testlog4j
+ãINFOãã20-08-24ããclass com.wei.Dao.UserDaoTestãinfo:进入了testlog4j
+ãDEBUGãã20-08-24ããclass com.wei.Dao.UserDaoTestãdebug:进入了testlog4j
+ãERRORãã20-08-24ããclass com.wei.Dao.UserDaoTestãerror:进入了testlog4j
+ãINFOãã20-08-24ããclass com.wei.Dao.UserDaoTestãinfo:进入了testlog4j
+ãDEBUGãã20-08-24ããclass com.wei.Dao.UserDaoTestãdebug:进入了testlog4j
+ãERRORãã20-08-24ããclass com.wei.Dao.UserDaoTestãerror:进入了testlog4j
+ãINFOãã20-08-24ããclass com.wei.Dao.UserDaoTestãinfo:进入了testlog4j
+ãDEBUGãã20-08-24ããclass com.wei.Dao.UserDaoTestãdebug:进入了testlog4j
+ãERRORãã20-08-24ããclass com.wei.Dao.UserDaoTestãerror:进入了testlog4j
+ãINFOãã20-08-24ããclass com.wei.Dao.UserDaoTestãinfo:进入了testlog4j
+ãDEBUGãã20-08-24ããclass com.wei.Dao.UserDaoTestãdebug:进入了testlog4j
+ãERRORãã20-08-24ããclass com.wei.Dao.UserDaoTestãerror:进入了testlog4j
+???INFO??????20-08-24??????class com.wei.Dao.UserDaoTest???info:������testlog4j
+???DEBUG??????20-08-24??????class com.wei.Dao.UserDaoTest???debug:������testlog4j
+???ERROR??????20-08-24??????class com.wei.Dao.UserDaoTest???error:������testlog4j
+ãINFOãã20-08-24ããclass com.wei.Dao.UserDaoTestãinfo:进入了testlog4j
+ãDEBUGãã20-08-24ããclass com.wei.Dao.UserDaoTestãdebug:进入了testlog4j
+ãERRORãã20-08-24ããclass com.wei.Dao.UserDaoTestãerror:进入了testlog4j
+[INFO][20-08-24][class com.wei.Dao.UserDaoTest]info:进入了testlog4j
+[DEBUG][20-08-24][class com.wei.Dao.UserDaoTest]debug:进入了testlog4j
+[ERROR][20-08-24][class com.wei.Dao.UserDaoTest]error:进入了testlog4j
+[INFO][20-08-25][class com.wei.Dao.UserDaoTest]info:进入了testlog4j
+[DEBUG][20-08-25][class com.wei.Dao.UserDaoTest]debug:进入了testlog4j
+[ERROR][20-08-25][class com.wei.Dao.UserDaoTest]error:进入了testlog4j
+[DEBUG][20-08-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-25][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-25][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-25][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-25][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-25][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 238762799.
+[DEBUG][20-08-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@e3b3b2f]
+[DEBUG][20-08-25][com.wei.Dao.UserDaoMapper.getUserByLimit]==>  Preparing: select * from Mybatis.user limit ?,? 
+[DEBUG][20-08-25][com.wei.Dao.UserDaoMapper.getUserByLimit]==> Parameters: 0(Integer), 2(Integer)
+[DEBUG][20-08-25][com.wei.Dao.UserDaoMapper.getUserByLimit]<==      Total: 2
